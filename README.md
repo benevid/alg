@@ -5,6 +5,6 @@
 ## Exercícios
 
 ## Trabalhos
-[Descrição e Template](/blob/master/trabalho/2019-1.md)
+[Descrição e Template](trabalho/2019-1.md)
 
 ## Avaliações
